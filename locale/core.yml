@@ -4,9 +4,13 @@
 
 core:
   group:
+    admin: 'Мудири кул'
+    admins: 'Мудирони кул'
     guest: Меҳмон
     guests: Меҳмонон
     member: корбар
     members: корбарон
     mod: мудир
     mods: мудирон
+  ref:
+    you: Шумо
