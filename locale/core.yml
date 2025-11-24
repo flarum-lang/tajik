@@ -8,9 +8,33 @@ core:
     admins: 'Мудирони кул'
     guest: Меҳмон
     guests: Меҳмонон
-    member: корбар
-    members: корбарон
-    mod: мудир
-    mods: мудирон
+    member: Корбар
+    members: Корбарон
+    mod: Мудир
+    mods: Мудирон
   ref:
+    never: Ҳаргиз
+    new_token: 'баҳомуҳри тоза'
+    next_page: 'Саҳифаи пасин'
+    notifications: Огаҳдодҳо
+    okay: Пазириш
+    password: Гузарвожа
+    posts: Фиристаҳо
+    previous_page: 'Саҳифаи пештар'
+    remove: Зудудан
+    rename: 'Тағйири ном'
+    reply: 'Посух додан'
+    reset_your_password: 'Бозтанзими гузарвожа'
+    restore: Бознишонӣ
+    save_changes: 'Захираи тағирот'
+    search_users: 'Ҷустуҷӯии корбар'
+    security: Амният
+    settings: Сомондеҳӣ
+    sign_up: Номнависӣ
+    some_others: '{count, plural, one {# дигар} other {# дигар}}'
+    start_a_discussion: 'Оғоз кардани гуфтугӯии тоза'
+    username: 'Номи корбарӣ'
+    users: Корбарон
+    view: Дидан
+    write_a_reply: 'Навиштани як посух'
     you: Шумо
