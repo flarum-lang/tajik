@@ -13,6 +13,9 @@ core:
     mod: Мудир
     mods: Мудирон
   ref:
+    log_in: Вуруд
+    log_out: 'Берун шудан'
+    mark_all_as_read: 'Аломат задани ҳама ба унвони хондашуда'
     never: Ҳаргиз
     new_token: 'баҳомуҳри тоза'
     next_page: 'Саҳифаи пасин'
