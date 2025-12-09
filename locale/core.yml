@@ -3,6 +3,12 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 core:
+  admin:
+    appearance:
+      colored_header_label: 'Сарбарги рангӣшуда'
+      colors_heading: Рангҳо
+      colors_primary_label: 'Ранги аслӣ'
+      colors_secondary_label: 'Ранги дувум'
   group:
     admin: 'Мудири кул'
     admins: 'Мудирони кул'
