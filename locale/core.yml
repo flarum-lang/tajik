@@ -4,6 +4,8 @@
 
 core:
   admin:
+    advanced:
+      description: 'Танзимоти пешрафтаи анҷумани худро пайкарбандӣ кунед.'
     appearance:
       colored_header_label: 'Сарбарги рангӣшуда'
       colors_heading: Рангҳо
